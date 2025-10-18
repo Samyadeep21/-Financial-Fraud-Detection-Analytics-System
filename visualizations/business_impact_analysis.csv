@@ -1,0 +1,7 @@
+Metric,Baseline (Rule-Based),ML Framework,Improvement
+Fraud Detection Rate,65%,1.9%,+50.5%
+False Positive Rate,8.2%,2.1%,-74.4%
+Processing Time (ms),450ms,120ms,-73.3%
+Monthly Transactions,1M,1M,-
+Cost per False Positive,$50,$50,-
+Monthly Savings,-,"$248,000",-

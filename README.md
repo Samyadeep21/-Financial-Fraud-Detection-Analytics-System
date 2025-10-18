@@ -246,7 +246,7 @@ fraud-detection-analytics/
 
 **Samyadeep Saha**  
 📧 Email: samyadeep.mtech@gmail.com  
-💼 LinkedIn: [Your LinkedIn URL]  
+💼 LinkedIn: [https://www.linkedin.com/in/samyadeep-saha-5b51a3220/]  
 🌐 Portfolio: [Your Portfolio URL]  
 📊 GitHub: [@Samyadeep21](https://github.com/Samyadeep21)
 
